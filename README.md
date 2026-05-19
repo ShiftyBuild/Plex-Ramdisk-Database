@@ -1,5 +1,7 @@
 # plex-ramdisk-setup
 
+--- Yes I know this was created with AI --- 
+
 **Move your Plex Media Server database to a ramdisk for faster library performance — with full persistence, hash-verified backups, automatic recovery, and safe rollback.**
 
 ---
